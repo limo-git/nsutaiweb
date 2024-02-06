@@ -1,10 +1,11 @@
-import MainFrame from '../src/components/MainFrame.js'
+import FrameMain from '../src/components/FrameMain.js'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-     <MainFrame/>
+     <FrameMain/>
+
     </div>
   );
 }
